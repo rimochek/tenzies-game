@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings: "ROND" 0;
+}
+
+body {
+  margin: 0;
+  background-color: #0b2434;
+}
